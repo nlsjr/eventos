@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCPlGRKCA0T1bJXCKqQ9aNT-cudLq3P5TY",
-    authDomain: "eventos-26b34.firebaseapp.com",
-    databaseURL: "https://eventos-26b34.firebaseio.com",
-    projectId: "eventos-26b34",
-    storageBucket: "eventos-26b34.appspot.com",
-    messagingSenderId: "779079233494",
-    appId: "1:779079233494:web:6a6b7475dfaaad90"
+    apiKey: "AIzaSyARjWHe6DRpv8e74urmOpxc4T7-uPMk4Dk",
+    authDomain: "eventos-3198f.firebaseapp.com",
+    databaseURL: "https://eventos-3198f.firebaseio.com",
+    projectId: "eventos-3198f",
+    storageBucket: "eventos-3198f.appspot.com",
+    messagingSenderId: "903481488019",
+    appId: "1:903481488019:web:02b1762b07c7be016c5366"
   };
 
   // Initialize Firebase
